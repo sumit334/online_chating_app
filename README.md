@@ -4,4 +4,4 @@ As this is hosted on netlify and render , the page on the render gets terminated
 So, it might not work always 
 I need to re-start the page again due to use of unpaid service on render...
 But you can have a feel of the site through
-Link : https://onlineappwhats.netlify.app/
+Link : https://sumitonlineapp.netlify.app/
